@@ -2,7 +2,9 @@
 
 [https://mathjs.org](https://mathjs.org)
 
-Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to use.
+Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices. Powerful and easy to u
+
+In general `math.js` is the uncompressed library and `math.min.js` is the compressed library of `MathJS`. Due to the fact that all Content Delivery Networks (CDN) do compress even the uncompressed versions `math.js` for longer period of time this library provides the uncompressed version in `dist/`.
 
 [![Version](https://img.shields.io/npm/v/mathjs.svg)](https://www.npmjs.com/package/mathjs)
 [![Downloads](https://img.shields.io/npm/dm/mathjs.svg)](https://www.npmjs.com/package/mathjs)
